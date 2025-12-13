@@ -37,20 +37,6 @@ Check it out for my projects, skills, and overall vibe.
 
 ---
 
-## 📌 Currently Working On
-- Web Technology projects  
-- Improving backend logic  
-- Leveling up problem-solving skills
-
----
-
-## 📊 GitHub Stats
-![Binoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bino369&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bino369&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 - 💼 GitHub: https://github.com/Bino369  
 - 🌐 Portfolio: https://binofolio.vercel.app

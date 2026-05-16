@@ -27,8 +27,8 @@ Check it out for my projects, skills, and overall vibe.
 **Languages**
 - HTML, CSS, JavaScript
 - Java
-- Python (basics)
-
+- Python
+  
 **Tools & Tech**
 - Git & GitHub
 - MongoDB

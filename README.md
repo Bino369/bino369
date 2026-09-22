@@ -1,5 +1,4 @@
-# 👋 Hey, I’m Binoy Anil
-
+# 👋 Hey, I'm Binoy Anil
 
 🎓 BCA Student  
 💻 Into coding & building cool stuff  
@@ -37,9 +36,10 @@ Check it out for my projects, skills, and overall vibe.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 - 💼 GitHub: https://github.com/Bino369  
 - 🌐 Portfolio: https://binofolio.vercel.app
+- 📄 Resume: https://github.com/Bino369/Resume
 
 ---
 

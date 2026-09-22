@@ -39,7 +39,7 @@ Check it out for my projects, skills, and overall vibe.
 ## 🤝 Let's Connect
 - 💼 GitHub: https://github.com/Bino369  
 - 🌐 Portfolio: https://binofolio.vercel.app
-- 📄 Resume: https://github.com/Bino369/Resume
+- 📄 Resume: https://github.com/Bino369/Resume/blob/main/resume.pdf
 
 ---
 

@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 **https://binofolio.vercel.app**
+🔗 **binoy.site**
 
 Check it out for my projects, skills, and overall vibe.
 
